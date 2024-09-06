@@ -2245,14 +2245,14 @@ ocsp = ["cryptography (>=36.0.1)", "pyopenssl (==20.0.1)", "requests (>=2.26.0)"
 
 [[package]]
 name = "reflex-chakra"
-version = "0.6.0a3"
+version = "0.6.0a4"
 description = "reflex using chakra components"
 category = "main"
 optional = false
 python-versions = "<4.0,>=3.8"
 files = [
-    {file = "reflex_chakra-0.6.0a3-py3-none-any.whl", hash = "sha256:5e7ab4c25b783e6176f123b6fe8993d225ebaed51a790bd3c17617272724884c"},
-    {file = "reflex_chakra-0.6.0a3.tar.gz", hash = "sha256:71cde012b7249fda9194a5f652b3b7c1dc2f4d5b39b38f53fe7531f8d9ea5248"},
+    {file = "reflex_chakra-0.6.0a4-py3-none-any.whl", hash = "sha256:d94e2f75a173b88e6fc0a1af2e9b04ceb9c0860cca13953fa8a21ad2e9f0721b"},
+    {file = "reflex_chakra-0.6.0a4.tar.gz", hash = "sha256:3b95614a6843f3b8aa364bf98d8258e269694bf62986d0fa10d8d038b4418650"},
 ]
 
 [package.dependencies]
@@ -3124,4 +3124,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "fdbdfc13eafccd4448890051b6d8c148fec25e950f3915eaaeef927985cd0f11"
+content-hash = "00f875fb0dd465057ec59ba2932a2a9fbd0667aae692bc7748a3c04369ed1d1f"
